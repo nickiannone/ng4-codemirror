@@ -1,0 +1,26 @@
+{
+  "name": "@ng4/codemirror",
+  "version": "0.0.1",
+  "description": "Angular4 Codemirror component",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "angular4",
+    "component",
+    "codemirror"
+  ],
+  "author": "Vadim",
+  "license": "MIT",
+  "repository": {},
+  "bugs": {},
+  "homepage": "",
+  "dependencies": {
+    "codemirror": "^5.22.2",
+    "@angular/common": "^4.0.0",
+    "@angular/compiler": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "@angular/forms": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
