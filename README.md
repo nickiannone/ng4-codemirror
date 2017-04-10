@@ -1,5 +1,6 @@
 # Angular4 - Codemirror component
 [![npm version](https://badge.fury.io/js/%40ng4%2Fcodemirror.svg)](https://www.npmjs.com/package/@ng4/codemirror)
+[![npm version](https://travis-ci.org/Vadimon/ng4-codemirror.svg?branch=master)](https://travis-ci.org/Vadimon/ng4-codemirror.svg?branch=master)
 ### Установка
 `npm install @ng4/codemirror --save`
 
