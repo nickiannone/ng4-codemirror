@@ -11,9 +11,12 @@
   ],
   "author": "Vadim",
   "license": "MIT",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadimon/ng4-codemirror.git"
+  },
   "bugs": {},
-  "homepage": "",
+  "homepage": "https://github.com/vadimon/ng4-codemirror",
   "dependencies": {
     "codemirror": "^5.22.2",
     "@angular/common": "^4.0.0",
