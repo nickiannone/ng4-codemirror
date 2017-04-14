@@ -1,6 +1,6 @@
 {
   "name": "@ng4/codemirror",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Angular4 Codemirror component",
   "main": "index.js",
   "scripts": {},

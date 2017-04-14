@@ -45,6 +45,9 @@ export class Sample{
   constructor(){
     this.code = `// Некоторый код...`;
   }
+  
+  onBlur() { }
+  onFocus() { }
 }
 ```
 
